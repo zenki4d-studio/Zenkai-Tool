@@ -1,0 +1,15 @@
+directories:
+  output: release_1_2_1
+  buildResources: build
+appId: com.zenkai.app
+productName: Zenkai AI Studio
+files:
+  - filter:
+      - dist/**/*
+      - electron/**/*
+publish:
+  - provider: generic
+    url: https://updates.example.com/zenkai
+win:
+  target: nsis
+electronVersion: 34.5.8

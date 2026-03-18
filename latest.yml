@@ -1,8 +1,8 @@
-version: 1.2.1
+version: 1.0.0
 files:
-  - url: Zenkai AI Studio Setup 1.2.1.exe
-    sha512: bi1Ot0mb1ViIFYiTGPNZgR7qIVLJhPtZcGIX+s7kD9czZAbEqL7Nzoy4XQ+CgC1FkCC6KR5BREyG2idnRB+IMw==
-    size: 88524655
-path: Zenkai AI Studio Setup 1.2.1.exe
-sha512: bi1Ot0mb1ViIFYiTGPNZgR7qIVLJhPtZcGIX+s7kD9czZAbEqL7Nzoy4XQ+CgC1FkCC6KR5BREyG2idnRB+IMw==
-releaseDate: '2026-03-16T18:53:28.210Z'
+  - url: Veo Auto Tool Setup 1.0.0.exe
+    sha512: 2iNzsnzDuqSI0g+mEHcodql14nMkixOwceU/JK4sI3qGd2t7nMEjkKGXFsqbjD2dCTZI9q9QVCTVMMl/Fk/Osw==
+    size: 102947120
+path: Veo Auto Tool Setup 1.0.0.exe
+sha512: 2iNzsnzDuqSI0g+mEHcodql14nMkixOwceU/JK4sI3qGd2t7nMEjkKGXFsqbjD2dCTZI9q9QVCTVMMl/Fk/Osw==
+releaseDate: '2026-03-18T17:04:11.511Z'
